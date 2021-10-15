@@ -1,0 +1,16 @@
+.product-container {
+  padding-top: 20px;
+  height: 100%;
+}
+#admin-nav {
+  background-color: rgba(0, 2, 3, 0.644);
+  height: 15%;
+}
+.link-style{
+    color: rgba(14, 240, 248, 0.363);
+}
+.link-style:hover{
+    text-decoration: none;
+    color: rgb(102, 7, 7);
+    cursor: pointer;
+}
